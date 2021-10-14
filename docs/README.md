@@ -81,36 +81,29 @@ De eerste kolom is 150 px breed en de tweede kolom is 300px breed (*width: value
 
 ![](images/oef7.png)
 
-### Oefening 8: Vander beken - lettertypes en kleuren
+---
 
-Gebruik voor de vanderbeken-oefening het Google-lettertype **Roboto**. 
+## Oefening 8: Lekkerrrrrrrr.
 
-- Surf naar [https://fonts.google.com/](https://fonts.google.com/)
-- Zoek naar het lettertype Roboto en selecteer het lettertype. De vanderbeken-website  bevat gewone tekst, vette en cursieve tekst, selecteer dus de styles 'Regular 400' en 'Regular 400 italic'
-  en voeg de styles toe aan je website.   
-- Bekijk de website in je browser en controleer met de Developer Tools of het lettertype Roboto geladen wordt.
-  - Open de Developer Tools (F12).
-  - Selecteer bij **Elements** een HTML-element met tekst.
-  - Selecteer **Computed** en kijk welke de 'Rendered font' is.
+Open de map oefening08-lekkerrrrr. 
+Maak een map *css* aan en ook een *main.css* in deze map. Leg de link naar dit bestand in *index.html*.
 
-Voeg kleur- en tekst-eigenschappen toe aan de vanderbeken-oefening. Welke kleur- en tekst-eigenschappen je moet toevoegen is beschreven in de css-file.
+Voeg stijlregels toe aan het css-bestand zodat je onderstaande webpagina bekomt. Doe dit zonder gebruik te maken van class-selectors.
 
-De meeste lay-out en witruimtes voegen we voorlopig nog niet toe aan de website. Dit komt later aan bod in de lessen.
+Hoe hierbij rekening met het volgende:
 
-Eindresultaat: 
+- Font stack voor de pagina: *Verdana, Geneva, Tahoma, sans-serif;*    
+- Alle headings staan in hoofdletter (niet aanpassen in index.html, wijzigen via CSS).
+- Volgende kleuren worden gebruikt:      
+    - lightblue               
+    - darkcyan             
+    - steelblue     
+    - #f1f1f1;                
+    - gray              
+- De caption bij de eerste afbeelding krijgt een kleur (steelblue). De caption bij de tweede afbeelding geef je enkel een beetje meer ondermarge (`margin-bottom: 0.5em`)
+- De lijsttekens van de ongeordende lijst worden niet weergegeven.
 
-**index.html**
+Dit is het eindresultaat:      
 
-![index.html](images/vdb1.png)          
-
-**over_ons.html**
-
-![over_ons.html](images/vdb2.png)          
-
-**realisaties.html**
-
-![realisaties.html](images/vdb3.png)          
-
-**contact.html**
-
-![contact.html](images/vdb4.png)          
+![](images/.png)          
+   
