@@ -85,7 +85,7 @@ De eerste kolom is 150 px breed en de tweede kolom is 300px breed (*width: value
 
 ## Oefening 8: Lekkerrrrrrrr.
 
-Open de map oefening08-lekkerrrrr. 
+Open de map *oefening08-lekkerrrrr*. 
 Maak een map *css* aan en ook een *main.css* in deze map. Leg de link naar dit bestand in *index.html*.
 
 Voeg stijlregels toe aan het css-bestand zodat je onderstaande webpagina bekomt. Doe dit zonder gebruik te maken van class-selectors.
@@ -105,5 +105,5 @@ Hoe hierbij rekening met het volgende:
 
 Dit is het eindresultaat:      
 
-![](images/.png)          
+![eindresultaat](images/oef-lekkerrrrr.png)          
    
