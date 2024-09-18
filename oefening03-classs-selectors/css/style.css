@@ -1,7 +1,8 @@
-body{
+body {
     background-color: lightgray;
     font-family: Courier, monospace;
 }
+
 /* Class selectors */
 /* In deze oefening maak je enkel gebruik
 van class selectors (het is hier dus niet de bedoeling
@@ -28,9 +29,4 @@ een lettergrootte van 2 em. Pas indien nodig de HTML aan.*/
 
 
 /* De laatste paragraaf van de aside in bold en tekstkleur #128956.
-Definieer een class groen en pas deze toe op het juiste HTML-element.*/ 
-
-
-
-
-
+Definieer een class groen en pas deze toe op het juiste HTML-element.*/

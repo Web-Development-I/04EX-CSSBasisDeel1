@@ -1,35 +1,15 @@
-
-body{
-    font-family:  monospace;
-    font-size: 1.4em;
+body {
+  font-family: monospace;
+  font-size: 1.4em;
 }
 
 /*Table*/
 
-table { 
+table {
   border-collapse: collapse;
 }
-th, td{ 
-    border: 1px solid black;
-    padding: 3px 10px;
+
+th, td {
+  border: 1px solid black;
+  padding: 3px 10px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
